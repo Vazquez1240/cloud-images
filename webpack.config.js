@@ -18,6 +18,13 @@ module.exports = {
                     filename: 'images/[name][ext]',
                 },
             },
+            {
+                test: /\.(pdf|docx?|xlsx?|pptx?|txt|csv|zip)$/i,
+                type: 'asset/resource',
+                generator: {
+                    filename: 'documents/[name][ext]',
+                },
+            },
         ],
     },
     plugins: [
@@ -26,7 +33,8 @@ module.exports = {
         }),
         new CopyWebpackPlugin({
             patterns: [
-                { from: 'images', to: 'images' },
+                { from: 'images', to: 'images', noErrorOnMissing: true },
+                { from: 'documents', to: 'documents', noErrorOnMissing: true },
             ],
         }),
     ],
