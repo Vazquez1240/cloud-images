@@ -1,0 +1,74 @@
+{
+  "axteliosoffice": [
+    "https://cloud-images-mdtv.web.app/images/axteliosoffice/extra-axteliosoffice.png",
+    "https://cloud-images-mdtv.web.app/images/axteliosoffice/extra2-axteliosoffice.png",
+    "https://cloud-images-mdtv.web.app/images/axteliosoffice/portada-axteliosoffice.png"
+  ],
+  "axtelsojasa": [
+    "https://cloud-images-mdtv.web.app/images/axtelsojasa/portada-axtelsojasa.png"
+  ],
+  "_root": [
+    "https://cloud-images-mdtv.web.app/images/fotografia-portafolio.png",
+    "https://cloud-images-mdtv.web.app/images/img.png"
+  ],
+  "mtyacceso": [
+    "https://cloud-images-mdtv.web.app/images/mtyacceso/extra-mtyacceso.png",
+    "https://cloud-images-mdtv.web.app/images/mtyacceso/portada-mtyacceso.png"
+  ],
+  "mtycms": [
+    "https://cloud-images-mdtv.web.app/images/mtycms/extra-mtycms.png",
+    "https://cloud-images-mdtv.web.app/images/mtycms/portada-mtycms.png"
+  ],
+  "mtyempleo": [
+    "https://cloud-images-mdtv.web.app/images/mtyempleo/extra2-mtyempleo.png",
+    "https://cloud-images-mdtv.web.app/images/mtyempleo/extra3-mtyempleo.png",
+    "https://cloud-images-mdtv.web.app/images/mtyempleo/portada-mtyempleo.png"
+  ],
+  "mtyhuellitas": [
+    "https://cloud-images-mdtv.web.app/images/mtyhuellitas/extra-mtyhuellitas.png",
+    "https://cloud-images-mdtv.web.app/images/mtyhuellitas/portada-mtyhuellitas.png"
+  ],
+  "mtyid": [
+    "https://cloud-images-mdtv.web.app/images/mtyid/extra-mtyid.png",
+    "https://cloud-images-mdtv.web.app/images/mtyid/extra2-mtyid.png",
+    "https://cloud-images-mdtv.web.app/images/mtyid/extra3-mtyid.png",
+    "https://cloud-images-mdtv.web.app/images/mtyid/extra4-mtyid.png",
+    "https://cloud-images-mdtv.web.app/images/mtyid/portada-mtyid.png"
+  ],
+  "mtymira": [
+    "https://cloud-images-mdtv.web.app/images/mtymira/extra-mtymira.png",
+    "https://cloud-images-mdtv.web.app/images/mtymira/extra2-mtymira.jpg",
+    "https://cloud-images-mdtv.web.app/images/mtymira/portada-mtymira.png"
+  ],
+  "mtymodulo": [
+    "https://cloud-images-mdtv.web.app/images/mtymodulo/extra-mtymodulo.png",
+    "https://cloud-images-mdtv.web.app/images/mtymodulo/portada-mtymodulo.png"
+  ],
+  "mtyregulatoria": [
+    "https://cloud-images-mdtv.web.app/images/mtyregulatoria/extra-mtyregulatoria.png",
+    "https://cloud-images-mdtv.web.app/images/mtyregulatoria/extra2-mtyregulatoria.png",
+    "https://cloud-images-mdtv.web.app/images/mtyregulatoria/extra3-mtyregulatoria.png",
+    "https://cloud-images-mdtv.web.app/images/mtyregulatoria/extra4-mtyregulatoria.png",
+    "https://cloud-images-mdtv.web.app/images/mtyregulatoria/portada-mtyregulatoria.png"
+  ],
+  "nexosoftdev": [
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/agenda-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/agentes-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/configuracion-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/configuracion-planes-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/configuracion-sitio-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/configuracion-sitio-contenido-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/creacionjuntas-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/doctores-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/equipo-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/juntas-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/salajuntas-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/servicios-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/soporte-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/agendamiento/sucursales-agendamiento-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/isotipo-nexosoftdev-png.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/isotipo-nexosoftdev-svg.svg",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/logo-nexosoftdev.png",
+    "https://cloud-images-mdtv.web.app/images/nexosoftdev/portada-nexosoftdev.png"
+  ]
+}

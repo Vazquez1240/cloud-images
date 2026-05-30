@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "start": "serve dist"
+    "start": "serve dist",
+    "images:json": "node scripts/generate-images-json.js"
   },
   "keywords": [],
   "author": "",
